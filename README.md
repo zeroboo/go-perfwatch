@@ -1,2 +1,2 @@
-# go-perfwatch
-Performance watch in golang
+# perfwatch
+Performance stopwatch in golang
